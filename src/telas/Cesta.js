@@ -29,11 +29,11 @@ export default function cesta() {
 
 const estilos = StyleSheet.create({
   topo: {
-    width: "100%",
+    width: "100vw",
     height: (578 / 768) * width,
   },
   titulo: {
-    width: "100%",
+    width: "100vw",
     position: "absolute",
     textAlign: "center",
     fontSize: 16,
